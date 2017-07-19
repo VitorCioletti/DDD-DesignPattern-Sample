@@ -16,5 +16,6 @@
                 _solver = value;
             }
         }
+
     }
 }

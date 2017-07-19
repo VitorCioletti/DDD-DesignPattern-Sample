@@ -2,6 +2,7 @@
 {
     using System;
     using DomainDrivenDevelopment.Domain.Infrastructure;
+    //Here happens all the implementation of interfaces created at Domain level.
     public class Fight : IFight
     {
         public void Attack()
