@@ -1,4 +1,4 @@
-﻿namespace DomainDrivenDevelopment.Apresentation
+﻿namespace DomainDrivenDevelopment.Presentation
 {
     using DomainDrivenDevelopment.DependencyInjection;
     using DomainDrivenDevelopment.Domain.DependencyInjection;
