@@ -2,7 +2,7 @@
 {
     public interface IFight
     {
-        //This interface is declared at the domain, although, it is implemented at infrastructure layer.
+        //This interface is declared at the domain, however, it is implemented at infrastructure layer.
         void Attack();
         void PrepareStance();
         void Defend();
